@@ -1,6 +1,9 @@
 Challenge name  : PW Crack 4 PicoCTF
+
 Category        :Cryptography
+
 Difficulty      :Medium
+
 Description     :Can you crack the password to get the flag?
 
 Download the password checker here
@@ -42,3 +45,8 @@ Dalam analisis saya, Saya membaca seluruh file menggunakan $nano untuk melihat i
    6. lalu terminal akan merespons dengan mengeluarkan hasil dari percobaan loop dan flag
    7. dan ini hasilnya Welcome back... your flag, user:
       picoCTF{fl45h_5pr1ng1ng_d770d48c}
+      
+   
+   <img width="1151" height="593" alt="Screenshot 2026-08-28 133050" src="https://github.com/user-attachments/assets/4edd16de-4972-4101-bc2c-682ccf479024" />
+
+<img width="968" height="614" alt="Screenshot 2026-08-28 130853" src="https://github.com/user-attachments/assets/f1002b44-fe92-4834-84f8-39022c262883" />
