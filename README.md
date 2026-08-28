@@ -49,4 +49,5 @@ Dalam analisis saya, Saya membaca seluruh file menggunakan $nano untuk melihat i
    
    <img width="1151" height="593" alt="Screenshot 2026-08-28 133050" src="https://github.com/user-attachments/assets/4edd16de-4972-4101-bc2c-682ccf479024" />
 
-<img width="968" height="614" alt="Screenshot 2026-08-28 130853" src="https://github.com/user-attachments/assets/f1002b44-fe92-4834-84f8-39022c262883" />
+<img width="1363" height="767" alt="Screenshot 2026-08-28 135112" src="https://github.com/user-attachments/assets/fc197531-7008-44ea-8168-e2e1fd9e1e5e" />
+
